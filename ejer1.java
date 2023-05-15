@@ -8,10 +8,10 @@ public class ejer1
 
         Scanner teclado = new Scanner( System.in );
 
-        System.out.print( "Introduzca primer número: " );
+        System.out.print( "Introduzca el primer número: " );
         n1 = teclado.nextInt();
 
-        System.out.print( "Introduzca segundo número: " );
+        System.out.print( "Introduzca el segundo número: " );
         n2 = teclado.nextInt();
 
         suma = n1 + n2;
